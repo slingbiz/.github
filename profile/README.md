@@ -1,111 +1,32 @@
-<div align="center">
-  <h1>Create Sling App</h1>
-</div>
+# Hi there 👋 Welcome to Sling!
 
-<div align="center">
-  <img src="https://sling.biz/assets/images/sling_biz_sling_image.jpg"/>
-</div>
+[![Sling YouTube Channel](https://img.shields.io/badge/YouTube-@wearesling1441-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@wearesling1441)
 
-<p align="center">
-  <strong>
-    <a href="https://studio.sling.biz">🚀 Live Demo</a>
-  </strong>
-</p>
+Sling is a lightweight, developer-friendly CMS that empowers you to build websites effortlessly with drag-and-drop widgets, customizable page routes, and templates—all from scratch!
 
-Open-source drag-and-drop frontend CMS in Next.js. Completely customizable Pages, Templates & Widgets written in Next.js. Sling is an open-source alternative to Builder.io.
+## 🛠 What is Sling all about?
+Sling is designed for developers and small teams who want a flexible, no-hassle way to create websites without the complexities of traditional CMS tools. With Sling, you can:
+- Create custom **page routes** and link them to beautiful **page templates**.
+- Use **drag-and-drop widgets** to design and configure pages in real-time.
+- Save URLs, view your changes instantly, and manage your website effortlessly.
 
----
+## 🌈 How can you get involved?
+Whether you’re a developer or a content creator, you can contribute to Sling by:
+1. **Testing and providing feedback**: Download Sling, try it out, and tell us what you think!
+2. **Reporting issues or requesting features**: Check out our [issues page](#) and let us know how we can improve.
+3. **Contributing code**: If you're a developer, feel free to fork the project and contribute directly. Check out our [contribution guidelines](#).
 
-## ✨ Features :fire:
+## 👩‍💻 Useful resources:
+- 📖 **Documentation**: Coming soon!
+- 🎥 **Video Tutorials**: Learn how to use Sling by watching our [YouTube tutorials](https://www.youtube.com/@wearesling1441).
+- 🚀 **Getting Started**: Jump into our demo projects and see Sling in action! [Demo Project](#)
 
-- **It’s just React & Node.js**: Built using modern frameworks, making customization easy and straightforward.
-- **Control how your components are edited**: With Sling.biz, you can control the React widgets and their props directly from the Studio.
-- **Drag-and-Drop Functionality**: Easily add, remove, and rearrange components within the visual editor.
-- **Page Templates and Routes**: Create routes and attach fully customizable page templates.
+## 🍿 Fun facts about our team:
+We’re a small team passionate about web development and empowering creators to build beautiful websites quickly. And for breakfast? We’re all about good coffee and croissants! ☕🥐
 
----
-
-## 🛠️ Prerequisites
-
-To properly set up Sling, you need the following:
-
-- **MongoDB URI**: Make sure you have a MongoDB instance running and obtain its URI.
-- **Node.js**: Ensure you have Node.js version 18 or greater installed.
+## 💪 Mighty things with Markdown:
+This README is just the start! To learn more about Markdown, check out the [GitHub Markdown Guide](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ---
-
-## 🚀 Setting up Sling - Hosted Studio
-
-To set up a Sling project locally using [Hosted Studio](https://studio.sling.biz/), follow these steps:
-
-### Frontend App Setup
-
-1. **Use the Installer**:
-   - Create the Sling Frontend app by running the following command:
-     ```sh
-     yarn create sling-app my-project
-     ```
-   - Follow the prompts to configure your Sling app.
-
-2. **Obtain Sling Studio Keys**:
-   - Visit [Sling Studio](https://studio.sling.biz/) to sign up and create an account.
-   - Complete the company setup.
-   - Navigate to your account settings or profile section.
-   - Locate the section for accessing or generating Sling Studio Keys.
-   - Copy the keys provided and update them in the `.env` file for the frontend app.
-
-3. **Start and Play Around**:
-   - Run your app and navigate to [http://localhost:4087](http://localhost:4087).
-   - Explore the Sling Studio interface, create custom widgets, and see real-time updates on your pages.
-
----
-
-## 🌐 Setting up Sling - Self-Hosted Studio
-
-If you prefer to host Sling Studio locally, follow these instructions. Sling consists of three main parts: Sling Studio, Sling API, and Sling FE.
-
-1. **Run the Installer**:
-   - Use the installer to set up the Sling project by running the following command:
-     ```sh
-     yarn create sling-app my-project
-     ```
-
-2. **Configure for Self-Hosting**:
-   - Follow the prompts to configure your Sling app and select the **Self-Hosted** option.
-   - The starter script will start the necessary services in the background, or you can manage them manually.
-
-3. **Navigate to the Services**:
-   - Frontend: [http://localhost:4087](http://localhost:4087)
-   - Studio: [http://localhost:2021](http://localhost:2021)
-   - API: [http://localhost:10001](http://localhost:10001)
-
----
-
-## 📚 Documentation and Resources
-
-- [Official Website](https://sling.biz)
-- [Documentation](https://sling.biz/documentation/)
-- [Live Demo](https://studio.sling.biz)
-- [YouTube Channel](https://www.youtube.com/@wearesling1441): Watch tutorials and demos.
-
----
-
-## 🙋 Getting Help :wave:
-
-If you have any questions, need assistance, or want to contribute, feel free to:
-
-- Join our [Slack](https://slingbiz.slack.com/archives/C06KE4ZMSQP) community.
-- Raise a [GitHub issue](https://github.com/slingbiz/sling-fe/issues) to report bugs or request features.
-- Reach out via [Email](mailto:ankur@sling.biz) or connect on [LinkedIn](https://www.linkedin.com/in/ankurpata/).
-
----
-
-## ✨ Contributions
-
-Contributions are welcome! Whether you’re improving documentation, building new features, or fixing bugs, feel free to open a pull request.
-
----
-
-<div align="center">
-  <strong>Thank you for checking out Sling! 🚀</strong>
-</div>
+### Ready to try Sling?
+Head over to our [YouTube Channel](https://www.youtube.com/@wearesling1441) for tutorials, and [get started today](#)!
