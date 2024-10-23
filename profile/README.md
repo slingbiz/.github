@@ -23,7 +23,7 @@ Open-source drag-and-drop frontend CMS in Next.js. Completely customizable Pages
 - **Drag-and-Drop Functionality**: Easily add, remove, and rearrange components within the visual editor.
 - **Page Templates and Routes**: Create routes and attach fully customizable page templates.
 
----
+
 
 ## 🛠️ Prerequisites
 
