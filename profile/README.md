@@ -14,7 +14,8 @@
 
 Open-source drag-and-drop frontend CMS in Next.js. Completely customizable Pages, Templates & Widgets written in Next.js. Sling is an open-source alternative to Builder.io.
 
----
+
+
 
 ## ✨ Features :fire:
 
@@ -32,7 +33,8 @@ To properly set up Sling, you need the following:
 - **MongoDB URI**: Make sure you have a MongoDB instance running and obtain its URI.
 - **Node.js**: Ensure you have Node.js version 18 or greater installed.
 
----
+
+
 
 ## 🚀 Setting up Sling - Hosted Studio
 
@@ -58,7 +60,8 @@ To set up a Sling project locally using [Hosted Studio](https://studio.sling.biz
    - Run your app and navigate to [http://localhost:4087](http://localhost:4087).
    - Explore the Sling Studio interface, create custom widgets, and see real-time updates on your pages.
 
----
+
+
 
 ## 🌐 Setting up Sling - Self-Hosted Studio
 
@@ -79,7 +82,8 @@ If you prefer to host Sling Studio locally, follow these instructions. Sling con
    - Studio: [http://localhost:2021](http://localhost:2021)
    - API: [http://localhost:10001](http://localhost:10001)
 
----
+
+
 
 ## 📚 Documentation and Resources
 
@@ -88,7 +92,7 @@ If you prefer to host Sling Studio locally, follow these instructions. Sling con
 - [Live Demo](https://studio.sling.biz)
 - [YouTube Channel](https://www.youtube.com/@wearesling1441): Watch tutorials and demos.
 
----
+
 
 ## 🙋 Getting Help :wave:
 
@@ -98,7 +102,8 @@ If you have any questions, need assistance, or want to contribute, feel free to:
 - Raise a [GitHub issue](https://github.com/slingbiz/sling-fe/issues) to report bugs or request features.
 - Reach out via [Email](mailto:ankur@sling.biz) or connect on [LinkedIn](https://www.linkedin.com/in/ankurpata/).
 
----
+
+
 
 ## ✨ Contributions
 
